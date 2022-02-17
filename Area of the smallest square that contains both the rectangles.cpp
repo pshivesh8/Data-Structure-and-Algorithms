@@ -16,6 +16,7 @@ Constraints
 1≤y11≤y12≤10
 1≤x21≤x22≤10
 1≤y21≤y22≤10
+
 Output
 One integer --- the area of the smallest square that contains both the rectangles.
 
@@ -25,6 +26,8 @@ Input
 1 8 4 9
 Output
 49
+
+
 Limits
 Time: 1s
 Memory: 256 MB
