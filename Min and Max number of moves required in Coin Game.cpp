@@ -8,7 +8,7 @@ Input
 a, b, c on the first line in that order.
 
 Constraints
-1≤a,b,c≤109
+1≤a,b,c≤10^9
 Output
 On the first line, print the minimum number of moves required.
 
