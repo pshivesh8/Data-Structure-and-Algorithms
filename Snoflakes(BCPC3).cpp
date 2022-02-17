@@ -1,11 +1,6 @@
 Problem:
 
 A connected component of a graph is called a snowflake if it contains exactly one node that has a degree not equal to 1.
-
-
-
-Left Three: SnowFlakes;               Right Three: Non Snowflakes
-
 A snowflake is Beautiful if there are no other snowflakes in the graph that are the same as it. Two snowflakes are the same if they have the same number of nodes.
 
 Given a graph, how many Beautiful snowflakes does it contain?
@@ -141,5 +136,5 @@ int main()
     for(int i=0;i<=n;i++)
     if(ans[i]==1)sum++;
     cout<<sum<<endl;
-	  return 0;
+    return 0;
 }
